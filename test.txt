@@ -1,0 +1,11 @@
+1. ls
+list segmentation 이 폴더 안에 있는 파일 목록을 보여줘...
+powershell의 경우 gci
+
+2. mkdir
+make directory 폴더 만들기
+
+3. cd
+change directory 폴도 이동
+
+4. git init
