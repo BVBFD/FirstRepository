@@ -25,7 +25,7 @@ change directory 폴도 이동
 
 * git commit 
   - git이 tracking하고 있는 파일 변화 tracking한거 다 모으고 있음.
-  - 지금까지 모은거(git add .)로 버전 만들어줘
+  - 지금까지 모은거(git add .)로 Version 만들어줘
 
 
 3. git remote remove origin 
